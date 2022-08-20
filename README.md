@@ -1,5 +1,5 @@
 # vue-crash-2022
-
+Click [Task Tracker](https://task-tracker-bymuji.netlify.app/) to view the application
 ## Project setup
 ```
 npm install
